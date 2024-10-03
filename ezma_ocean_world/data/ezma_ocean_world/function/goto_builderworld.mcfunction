@@ -1,0 +1,1 @@
+execute in ezma_ocean_world:default_ocean run tp @a 0.0 63.0 0.0

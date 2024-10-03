@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:overworld",
+    "generator": {
+      "type": "minecraft:noise",
+      "settings": "ezma_ocean_world:default_ocean",
+      "biome_source": {
+        "type": "minecraft:fixed",
+        "biome": "ezma_ocean_world:default_ocean"
+      }
+    }
+}
